@@ -1,8 +1,8 @@
 // light LED if either button is pressed
 
-const int LED = 13; 									
-const int BUTTON_1 = 7;
-const int BUTTON_2 = 8;
+const int LED = 14; 									
+const int BUTTON_1 = 15;
+const int BUTTON_2 = 33;
 
 int val;
 
