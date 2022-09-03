@@ -1,7 +1,7 @@
 // light an LED if button is pressed
 
-const int LED = 13; 									
-const int BUTTON = 7;
+const int LED = 14; 									
+const int BUTTON = 14;
 
 int val;
 
